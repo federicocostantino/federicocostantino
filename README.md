@@ -1,26 +1,21 @@
 ¡Hola! Mi nombre es Federico Costantino
 
-Tengo 31 años y me encuentro desarrollándome en la Escuela DaVinci como Técnico Superior en Diseño y Programación Web.
+Tengo 31 años y me encuentro cursando las últimas materias en la carrera de "Técnico Superior en Diseño y Desarrollo Web" en "Escuela DaVinci"
 
-Actualmente poseo los siguientes conocimientos:
-
-- Lenguajes de programación:
-  * HTML5 , CSS3
+Actualmente poseo conocimiento en las siguientes tecnologías:
+  * HTML5
+  * CSS3
   * Bootstrap
   * JavaScript
-  * Vue.js
+  * JQuery
+  * VueJs
   * PHP
+  * Laravel
   * MySQL
-
-- Sistema de gestión de Contenidos:
+  * Apache
   * Wordpress
-  
-- Sistema de gestión de manejo de Base de Datos:
-  * MySQL
-  
-- Editor de gráficos:
   * Adobe Photoshop
   * Adobe Illustrator
- 
-- Software de Virtualización:
   * VMware
+
+Autodidacta. Apasionado por la tecnología y el mundo del desarrollo web y mobile. Tengo experiencia trabajando bajo presión, por lo que me puedo adaptar fácilmente a cualquier entorno de trabajo. Muy proactivo y totalmente predispuesto al trabajo en equipo.
